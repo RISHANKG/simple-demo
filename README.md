@@ -1,2 +1,2 @@
-# simple-demo
-simple repo
+# Dhuaandar
+this is just a grda file hehehehe.
